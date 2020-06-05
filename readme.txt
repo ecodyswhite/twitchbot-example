@@ -11,6 +11,7 @@ There's like 3 working functions here because I couldn't figure out how to imple
 
 Known issues:
 There aren't enough features!!
+Can't upload entire node_modules folder to github.
 
 Attributes:
 Pretty much everything in here was from this youtube video: https://www.youtube.com/watch?v=ijl3GUHvKIw
